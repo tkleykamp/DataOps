@@ -25,3 +25,5 @@ Deliver simple, incremental insight – Don’t set out to develop a dashboard o
 Use existing tools first – There’s no need to purchase software/special tools until you’ve determined how they add value to your data analytics process
 
 Frequent reflection and feedback, to all team members’ is critical. Be positive when things go well, be constructive when things need improvement
+
+Be open: the decisions we make using data affect people, Thus we must, to the extent legally possible, make the data, analysis, and methods we used accessible and reproduce able. 
