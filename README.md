@@ -20,9 +20,9 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 * Frequent, face-to-face communication is a requirement
 
-* Deliver simple, incremental insight – Don’t set out to develop a dashboard or reproduce a report. Answer simple questions first, then  build on those. i.e How many inspections to we have this week? What are the most common violations? 
+* Deliver simple, incremental insight – Don’t set out to develop a dashboard or reproduce a report. Answer simple questions first, then  build on those. i.e How many inspections have been scheduled this week? What are the most common violations? 
 
-* Use existing tools first – There’s no need to purchase software/special tools until you’ve determined how they add value to your data  analytics process
+* Use existing tools first – There’s no need to purchase additional software or special tools until you’ve determined how they add value to your data analytics process
 
 * Frequent reflection and feedback, to all team members’ is critical. Be positive when things go well, be constructive when things need improvement
 
