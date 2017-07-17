@@ -6,9 +6,11 @@ A running list list of DataOps principles for Governments:
 *DataOps is a way to organize the people and processes involved with data that promotes communication between, and integration of, formerly siloed data, teams, and systems. It takes advantage of process change, organizational realignment, and technology to facilitate relationships between everyone who handles data. DataOps closely connects the people who collect and prepare the data, those who analyze the data, and those who put the findings from those analyses to good use.*
 -Note: this definition was adapted from [Ashish Thusoo's](https://twitter.com/ashishthusoo?lang=en) defintion [found here](http://www.zdnet.com/article/dataops-changing-the-world-one-organization-at-a-time/)
 
-*Everyone* involved in the data pipeline must know how data are being used within the organization. The person collecting/entering data must know that it is being aggregated/analyzed down the road; why & for what purpose
+
 
 **DataOps Principles for Government** - in no particular order (an not exhaustive)
+
+*Everyone* involved in the data pipeline must know how data are being used within the organization. The person collecting/entering data must know that it is being aggregated/analyzed down the road; why & for what purpose
 
 Data must be re-usable, easily
 
