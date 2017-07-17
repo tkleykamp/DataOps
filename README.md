@@ -8,6 +8,8 @@ A running list list of DataOps principles for Governments:
 
 *Everyone* involved in the data pipeline must know how data are being used within the organization. The person collecting/entering data must know that it is being aggregated/analyzed down the road; why & for what purpose
 
+**DataOps Principles for Government** - in no particular order (an not exhaustive)
+
 Data must be re-usable, easily
 
 Everyone is equally valuable – You can’t make that fancy dashboard without quality data
