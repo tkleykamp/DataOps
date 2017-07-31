@@ -16,7 +16,7 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 * Everyone is equally valuable – You can’t make that fancy dashboard without quality data
 
-* It is interdisiplinary - working with collegues from different backgrounds allows us harness the work in those fields. We can go farther together.
+* It is interdisiplinary - working with colleagues from different backgrounds allows us harness the work in those fields. We can go farther together.
 
 * Data/Analytics is a *process* not a product, DataOps must focus on process-thinking aimed at achieving continuous improvement both in  terms of data quality, but also analytics quality; ultimately leading to organizational/functional improvements and outcomes
 
