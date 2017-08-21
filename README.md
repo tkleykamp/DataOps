@@ -35,3 +35,6 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 ## Getting Started with DataOps for Government
 
 ### Step 1: [Understand your current process](howto/process_mapping.md)
+
+### Step 2: [Conduct some simple analysis](howto/simple_tests.md)
+
