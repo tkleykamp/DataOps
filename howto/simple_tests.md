@@ -7,5 +7,5 @@ Basic counts of data rarely provide insight, but counts often correlate to popul
 ### Create a time series or timeline chart:
 Dates are a common data quality issue that can inhibit one's ability to analyze and understand data. Generating a time series or timeline with your data will indeitify outliers that ultimately may skew your results. In general, dates should adhere to the same timeframe in which the data are collected. dates that are incirrectly formatted or have data entry errors should be readily apparent when creating a time series chart.
 
-## Look for outliers:
+### Look for outliers:
 First, generate some summary statistics such as mean (average) and median (happens the most). Looks for records that may disproportionately skew those results by using a [scatterplot](https://en.wikipedia.org/wiki/Scatter_plot) to vsiualize the data. Often times dates or quanities may be entered or collected in error and will be displayed as either exceptionally high or low.
