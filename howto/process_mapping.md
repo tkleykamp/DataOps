@@ -3,7 +3,7 @@
 *Define and Measure*
 1.	Identify a problem or question(s) to understand or solve
 2.	Identify the various data sources that may help in addressing the question(s) or problem.
-3.	Identify team members to work with (link to DataOps Team)
+3.	Identify team members to work with: [Forming Your DataOps Team](../blob/master/howto/team)
 4.	Identify and define common symbols and terms that will be used to map out your current data analysis process (i.e. flow chart)
 5.	Define the scope/process boundaries (start and end)
 6.	Define the “size” of the issue/problem you’re trying to understand or solve (how much, how often, how long, etc.)
