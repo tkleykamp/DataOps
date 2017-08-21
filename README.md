@@ -32,5 +32,6 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 * Be open: the decisions we make using data affect people. Thus we must, to the extent legally possible, make the data, analysis, and methods we used accessible and reproduce able. 
 
+## Getting Started with DataOps for Government
 
 ### Step 1: [Understand your current process](howto/process_mapping.md)
