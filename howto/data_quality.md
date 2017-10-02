@@ -6,5 +6,5 @@ Presumably by conducting some simple data anlysis and visualization, some issues
 Correcting data quality issues at the point data is entered or captured is ideal. This requires less donwstream effort to prepare data for analysis, and less maintenance of any software, tools, or code which may be used to correct for these issues.
 
 Step 1: **Talk to a person who physically enters the data**
-* Observe them enteriing data
+* Observe them entering data
 * Ask them if they understand what is supposed to be entered and how
