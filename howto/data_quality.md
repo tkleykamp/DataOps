@@ -11,8 +11,12 @@ Correcting data quality issues at the point data is entered or captured is ideal
 * Are they transposing data from a paper form? Is it legigble?
 * Are they speaking to someone over the phone?
 
-**Can data quality issues be resolved at the point of entry?
+**Can data quality issues be resolved at the point of entry?**
 * Can rules be enforced at the point of entry? For instance can the software easily be modified to include a data picker? Can addresses be validated? Can the sofwtare be modified to inlcude "pick-lists" or dropdowns with standard values?
 * Does the person enterning data understand how it's going to be used? Can their process be easily modified to ensure accurate entry?
 
-###N
+### After data have been captured
+* Do you have tools to clean the data?
+* Are you using an ETL (Extract, Transform, & Load) process?
+  + Does a mechanism exist to cleanse the data?
+* Can you automate these peroceses
