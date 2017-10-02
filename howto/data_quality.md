@@ -5,6 +5,14 @@ Presumably by conducting some simple data anlysis and visualization, some issues
 ###Start at the point of entry###
 Correcting data quality issues at the point data is entered or captured is ideal. This requires less donwstream effort to prepare data for analysis, and less maintenance of any software, tools, or code which may be used to correct for these issues.
 
-Step 1: **Talk to a person who physically enters the data**
-* Observe them entering data
-* Ask them if they understand what is supposed to be entered and how
+**Talk to a person who physically enters the data**
+* Observe them entering data,
+* Ask them if they understand what is supposed to be entered and how,
+* Are they transposing data from a paper form? Is it legigble?
+* Are they speaking to someone over the phone?
+
+**Can data quality issues be resolved at the point of entry?
+* Can rules be enforced at the point of entry? For instance can the software easily be modified to include a data picker? Can addresses be validated? Can the sofwtare be modified to inlcude "pick-lists" or dropdowns with standard values?
+* Does the person enterning data understand how it's going to be used? Can their process be easily modified to ensure accurate entry?
+
+###N
