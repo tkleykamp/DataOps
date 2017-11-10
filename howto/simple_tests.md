@@ -27,4 +27,4 @@ Make a list list of any data quality issues that have been discovered during thi
 7. Organizational quality: Can the same information be reconciled between two systems based on the way the organization constructs and views the data? 
 [source](https://www.melissadata.com/enews/articles/0611/2.htm) 
 
-**Flag or mark the possible areas on your data process flow chart where these erros might be occuring for further invesitgation later
+**Flag or mark the possible areas on your data process flow chart where these erros might be occuring for further invesitgation later**
