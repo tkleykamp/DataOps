@@ -34,11 +34,15 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 ## Getting Started with DataOps for Government
 
-### Step 1: [Understand your current process](howto/process_mapping.md)
+### * [Form a DataOps Team](howto/team.md)
 
-### Step 2: [Conduct some simple analysis](howto/simple_tests.md)
+### * [Understand your current process](howto/process_mapping.md)
 
-### Step 3: [Answer simple questions easily and repeatedly](howto/simple_repeatable.md)
+### * [Conduct some simple analysis](howto/simple_tests.md)
+
+### * [Answer simple questions easily and repeatedly](howto/simple_repeatable.md)
+
+### * [Identify and address data quality issues](howto/data_quality.md)
 
 
 
