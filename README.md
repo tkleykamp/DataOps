@@ -38,6 +38,8 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 ### Step 2: [Conduct some simple analysis](howto/simple_tests.md)
 
+### Step 3: [Answer simple questions easily and repeatedly](howto/simple_repeatable.md)
+
 
 
 
