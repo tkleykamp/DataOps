@@ -34,15 +34,15 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 ## Getting Started with DataOps for Government
 
-### * [Form a DataOps Team](howto/team.md)
+* ### [Form a DataOps Team](howto/team.md)
 
-### * [Understand your current process](howto/process_mapping.md)
+* ### [Understand your current process](howto/process_mapping.md)
 
-### * [Conduct some simple analysis](howto/simple_tests.md)
+* ### [Conduct some simple analysis](howto/simple_tests.md)
 
-### * [Answer simple questions easily and repeatedly](howto/simple_repeatable.md)
+* ### [Answer simple questions easily and repeatedly](howto/simple_repeatable.md)
 
-### * [Identify and address data quality issues](howto/data_quality.md)
+* ### [Identify and address data quality issues](howto/data_quality.md)
 
 
 
