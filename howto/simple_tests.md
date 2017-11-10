@@ -9,3 +9,6 @@ Dates are a common data quality issue that can inhibit one's ability to analyze 
 
 ### Look for outliers:
 First, generate some summary statistics such as mean (average) and median (happens the most). Looks for records that may disproportionately skew those results by using a [scatterplot](https://en.wikipedia.org/wiki/Scatter_plot) to vsiualize the data. Often, dates or quanities may be entered or collected in error and will be displayed as either exceptionally high or low.
+
+## Document and fix data quality issues
+Make a list list of any data quality issues that have been discovered during this process. Review the source of those errors. For instance were the data entered incorrectly, were their no controls to enforce standard data entry (i.e all caps, no caps, some caps, date formats, address incosistenc, etc.). Were the errors or issues related to a database report? 
