@@ -1,5 +1,5 @@
 # DataOps for Government
-A work in progress list of DataOps principles for Governments:
+A work in progress guide to applying DataOps principles for Governments:
 ## Goal of DataOps for Government:
 The continuous delivery of insight through the efficient use of data.
 
