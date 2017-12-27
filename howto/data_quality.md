@@ -21,4 +21,4 @@ Correcting data quality issues at the point data is entered or captured is ideal
 * Do you have tools to clean the data?
 * Are you using an ETL (Extract, Transform, & Load) process?
   + Does a mechanism exist to cleanse the data?
-* Can you automate these peroceses
+* Can you automate these proceses
