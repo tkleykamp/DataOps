@@ -20,3 +20,15 @@ The term "Data Pipeline" may mean different things to different people. As it ap
   + Is the system vendor managed?   
 + Is data stored entirely in the operation database, or is there a data warehouse or reporting database? (i.e. a version of the data not used for operation purposes)
 + Are there any exisiting processes or tools to clean or standardize data
+### Reporting and Extraction
++ How are data currently extracted from a database
++ What "reports" are currently in use
++ What tools exist to extract "raw" data.
+  + Are there tools or prcesses to transform, standardize or "clean" data?
+### Analysis and Reports
++ Are the data currently used for reports or analysis?
+  + Who is the audeince or recipient?
++ For what purpose are they created?
++ What are the tools or processes used to generate reports or analysis
+  + How frequest are they?
+  + Have they resulted in any insight or influence in decision making?
