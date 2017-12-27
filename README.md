@@ -12,7 +12,7 @@ The continuous delivery of insight through the efficient use of data.
 ## DataOps Principles for Government:
 In no particular order (and not exhaustive) - inspired by and borrowed from the [DataOps Manifesto](http://dataopsmanifesto.org/)
 
-* *Everyone* involved in the data pipeline must know how data are being used within the organization. The person collecting/entering data must know that it is being aggregated/analyzed down the road; why & for what purpose
+* *Everyone* involved in the [data pipeline](howto/pipeline.md) must know how data are being used within the organization. The person collecting/entering data must know that it is being aggregated/analyzed down the road; why & for what purpose
 
 * Data must be re-usable, easily
 
