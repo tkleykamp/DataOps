@@ -40,6 +40,8 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 * ### [Conduct some simple analysis](howto/simple_tests.md)
 
+* ### [Evaluate the "data pipeline"](howto/pipeline.md)
+
 * ### [Answer simple questions easily and repeatedly](howto/simple_repeatable.md)
 
 * ### [Identify and address data quality issues](howto/data_quality.md)
