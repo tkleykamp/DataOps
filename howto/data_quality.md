@@ -14,7 +14,7 @@ Correcting data quality issues at the point data is entered or captured is ideal
 * Are they speaking to someone over the phone?
 
 **Can data quality issues be resolved at the point of entry?**
-* Can rules be enforced at the point of entry? For instance can the software easily be modified to include a data picker? Can addresses be validated? Can the sofwtare be modified to inlcude "pick-lists" or dropdowns with standard values?
+* Can rules be enforced at the point of entry? For instance can the software easily be modified to include a data picker? Can addresses be validated? Can the software be modified to inlcude "pick-lists" or dropdowns with standard values?
 * Does the person enterning data understand how it's going to be used? Can their process be easily modified to ensure accurate entry?
 
 ### After data have been captured
