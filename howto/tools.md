@@ -8,7 +8,7 @@ Work in progress, and not an endorsement of any of these. Feel free to add to th
 ### Clean, Deduplicate and Link datasets
 [CSVDedupe](https://github.com/dedupeio/csvdedupe): Fairly simple command line tool to deduplicate csv files and to link reocrds.
 
-[OpenRefine](https://github.com/OpenRefine/OpenRefine):Free, open source power tool for working with messy data and improving it
+[OpenRefine](https://github.com/OpenRefine/OpenRefine):Free, open source tool for working with messy data and improving it
 
 
 ### Analysis Tools
