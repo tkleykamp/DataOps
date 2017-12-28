@@ -16,7 +16,7 @@ The term "Data Pipeline" may mean different things to different people. As it ap
 ### Data Storage
 + After data are entered, where are they stored? 
   + A large relational database (SQL Server, Oracle, DB2, Postgres (probably not)? 
-  + A local database such as MS Access, spreadheets? 
+  + A local database such as MS Access, spreadsheets? 
   + Is the system vendor managed?   
 + Is data stored entirely in the operation database, or is there a data warehouse or reporting database? (i.e. a version of the data not used for operation purposes)
 + Are there any exisiting processes or tools to clean or standardize data
