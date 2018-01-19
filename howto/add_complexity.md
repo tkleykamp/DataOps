@@ -8,3 +8,5 @@ At this point, simple questions should be easily answered at a frequency necessa
 + If the data are related to transactions such as permit processing or renewal or applications for benefits, consider the average processing time, which ones took the longest, which were the shortest. What might be impacting this?
 
 Conduct some exploratory analysis, and then review the results with the team. Review the results against a sample of individual records alongside front line staff. 
+
+(to be continued)
