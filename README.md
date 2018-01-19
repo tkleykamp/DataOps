@@ -46,7 +46,7 @@ In no particular order (and not exhaustive) - inspired by and borrowed from the 
 
 * ### [Identify and address data quality issues](howto/data_quality.md)
 
-* ### [Add more complxity to questions](howto/add_complexity.md)
+* ### [Add more complexity to questions](howto/add_complexity.md)
 
 
 Here are some [freely available tools](howto/tools.md) to help just in case you need them (work in progress)
