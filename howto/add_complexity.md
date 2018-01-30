@@ -13,3 +13,5 @@ As the questions become more complex, the possibility exists that they cannot be
 + Knowable: Is the question actually able to be answered with the data;
 + Understandable: Do we actually understand 1.) The question and the impacts of its answer and 2.) the data sufficiently enough to determine whether it's capable of answering the question;
 + Relevant: Does the question and it's potential answer(s) actually provide us with insight into what we are seeking to understand
++ Present: Does the data actually exist and is it sufficeint to answer the question.
++ Valid: Are the questions reasonable or logical and are the data based on facts.
