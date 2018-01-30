@@ -9,4 +9,7 @@ At this point, simple questions should be easily answered at a frequency necessa
 
 Conduct some exploratory analysis, and then review the results with the team. Review the results against a sample of individual records alongside front line staff. 
 
-(to be continued)
+As the questions become more complex, the possibility exists that they cannot be answered, or that they answers may not be reliable. Therefore the questions and the data used to ansewer them must be aligned with the following criteria: Knowable, Understandable, Relevant, Present, and Valid. 
++ Knowable: Is the question actually able to be answered with the data;
++ Understandable: Do we actually understand 1.) The question and the impacts of its answer and 2.) the data sufficiently enough to determine whether it's capable of answering the question;
++ Relevant: Does the question and it's potential answer(s) actually provide us with insight into what we are seeking to understand
