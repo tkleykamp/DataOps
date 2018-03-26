@@ -22,7 +22,7 @@ Correcting data quality issues at the point data is entered or captured is ideal
 * Are data being moved from an operational database to a reporting database?
   * Is that process operating correctly?
   * Did or does the process complete?
-* Are datasets being merged, linked, oe integrated?
+* Are datasets being merged, linked, or integrated?
   * Are they properly related? Are you able to reconcile data about the same person or thing?
   * Are there duplicate records when there should unique records?
   
