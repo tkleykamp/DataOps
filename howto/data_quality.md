@@ -18,6 +18,15 @@ Correcting data quality issues at the point data is entered or captured is ideal
 * Does the person enterning data understand how it's going to be used? Can their process be easily modified to ensure accurate entry?
 
 ### After data have been captured
+**Process Issues**
+* Are data being moved from an operational database to a reporting database?
+  * Is that process operating correctly?
+  * Did or does the process complete?
+* Are datasets being merged, linked, oe integrated?
+  * Are they properly related? Are you able to reconcile data about the same person or thing?
+  * Are there duplicate records when there should unique records?
+  
+**Things to think about**
 * Do you have tools to clean the data?
 * Are you using an ETL (Extract, Transform, & Load) process?
   + Does a mechanism exist to cleanse the data?
