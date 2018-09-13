@@ -12,7 +12,7 @@ Work in progress, and not an endorsement of any of these. Feel free to add to th
 
 
 ### Analysis Tools
-[Metabase](https://www.metabase.com/): Metabase is an open source data exploration and visualization tool
+[Metabase](https://www.metabase.com/): Metabase is an open source data exploration and visualization tool.
 [Superset](https://superset.incubator.apache.org/): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application.
 
 
