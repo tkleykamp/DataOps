@@ -8,7 +8,7 @@ Work in progress, and not an endorsement of any of these. Feel free to add to th
 ### Clean, Deduplicate and Link datasets
 [CSVDedupe](https://github.com/dedupeio/csvdedupe): Fairly simple command line tool to deduplicate csv files and to link records.
 
-[OpenRefine](https://github.com/OpenRefine/OpenRefine):Free, open source tool for working with messy data and improving it
+[OpenRefine](https://github.com/OpenRefine/OpenRefine): Free, open source tool for working with messy data and improving it
 
 
 ### Analysis Tools
@@ -23,5 +23,5 @@ Work in progress, and not an endorsement of any of these. Feel free to add to th
 
 [Power Pivot](https://support.office.com/en-us/article/Power-Pivot-Powerful-data-analysis-and-data-modeling-in-Excel-a9c2c6e2-cc49-4976-a7d7-40896795d045): Power Pivot is an Excel add-in you can use to perform powerful data analysis and create sophisticated data models. With Power Pivot, you can mash up large volumes of data from various sources, perform information analysis rapidly, and share insights easily
 
-[Fuzzy Lookup](https://www.microsoft.com/en-us/download/details.aspx?id=15011): A simple excel tool to link data with out uniqiue id's
+[Fuzzy Lookup](https://www.microsoft.com/en-us/download/details.aspx?id=15011): A simple excel tool to link data without uniqiue id's
 
